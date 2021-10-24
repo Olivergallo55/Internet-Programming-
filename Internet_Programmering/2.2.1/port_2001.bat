@@ -1,0 +1,1 @@
+java -jar IPROG_DRAW.jar 2001 localhost 2000
