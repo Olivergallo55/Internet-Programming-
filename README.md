@@ -1,2 +1,2 @@
 # Internet-Programming-
-A lot of rando stuff about different parts of internet programming
+A lot of random stuff about different areas in internet programming and Java
